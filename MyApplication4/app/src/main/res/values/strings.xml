@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application4</string>
+    <string name="textViewSaludo_texto">Hello EPN</string>
+    <string name="textViewTitle_texto">Contacts</string>
+    <string name="textViewTitle_buyNow">Buy Now</string>
+    <string name="textViewTitle_pricing">Pricing</string>
+    <string name="textViewTitle_details">Details</string>
+</resources>
