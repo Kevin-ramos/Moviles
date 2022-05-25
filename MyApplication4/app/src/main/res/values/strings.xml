@@ -5,4 +5,7 @@
     <string name="textViewTitle_buyNow">Buy Now</string>
     <string name="textViewTitle_pricing">Pricing</string>
     <string name="textViewTitle_details">Details</string>
+    <string name="textView_constraintLayout">ConstraintLayout</string>
+    <string name="textView_TableLayout">TableLayout</string>
+    <string name="textView_RowLayout">RowLayout</string>
 </resources>
